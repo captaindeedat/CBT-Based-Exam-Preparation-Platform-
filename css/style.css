@@ -1,0 +1,21 @@
+.navbar_color{
+	background-color: #7087a3;
+}
+#date_time{
+    color: #fff;
+}
+input["placeholder"]{
+    color: #fff;
+}
+.input_color{
+	background-color: #7087a3;
+    color: #fff;
+}
+
+.form_entry{
+	text-align: center;
+}
+hr{
+	margin-right: 8%;
+	margin-left: 8%;
+}

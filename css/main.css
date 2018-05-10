@@ -1,0 +1,105 @@
+header{
+	background-color: #2a3542;
+	color: white;
+	border: 1px solid #2a3542;
+	float: left;
+	position: relative;
+	padding: 10px;
+	height: 50px;
+	width: 100%;
+	font-size: 18px;
+}
+header .menu{
+	float: right; 
+	color: white;
+	font-size: 14px;
+	padding-right: 20px;
+}
+header .menu .back{
+	background-color: grey;
+}
+aside{
+	width: 15%;
+	background-color: #2a3542;
+	height: 610px;
+	float: left;
+}
+aside img{
+	margin: 20px 40px;
+}
+.main{
+	background-color: #eaedf1;
+	height: 660px;
+}
+.main .submain{
+	border: 1px solid white;
+	border-radius: 5px;
+	margin: 20px 40px;
+	float: left;
+	background-color: white;
+	width: 50%;
+	height: 400px;
+	color: white;
+}
+.main .submain .sub{
+	background-color: #7087a3;
+	height: 40px;
+	padding-left: 30px;
+	padding-top: 10px;
+}
+.main .submain .sub-other{
+	margin: 40px 15px;
+	color: black;
+}
+.main .submain .sub-other {
+	margin-top: 20px;
+	
+}
+input[type="radio"]{
+	margin-top: 20px;
+	-webkit-appearance : checkbox;
+	-moz-appearance : checkbox;
+}
+.main .submain .sub-foot {
+	background-color:#f3f4f8;
+	margin: 10px 10px;
+	height: 60px;
+	padding: 12px;
+}
+
+.main .sub-others{
+	border: 1px solid white;
+	border-radius: 5px;
+	margin: 20px 0px;
+	float: left;
+	background-color: white;
+	width: 25%;
+	height: 400px;
+	color: black;
+}
+.main .sub-others .sub{
+	background-color: #7087a3;
+	height: 40px;
+	padding-left: 30px;
+	padding-top: 10px;
+	color: white;
+}
+.main .sub-others .sub1{
+	margin: 20px 20px;
+}
+ 
+ /* intro Page */
+ .intromain .introbody{
+	 border: 1px solid grey;
+	 background-color: #e28406;
+	 margin: 0px 250px; 
+	 height: 80px;
+	 text-align: center;
+	 font-size: 16px;
+ }
+ .intromain .describe{
+	 color: #e28406;
+	 font-size: 16px;
+	 margin-top: 20px;
+	 margin-left: 250px;
+ }

@@ -1,0 +1,1 @@
+INSERT INTO `admin` (`id`, `username`, `password`, `time`) VALUES (NULL, 'admin', 'admin', CURRENT_TIMESTAMP);
